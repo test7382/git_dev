@@ -1,5 +1,5 @@
 # git_work
 
-hotfix1 step1
+feat1 step1
 
-hotfix1 step2
+feat1 step2
